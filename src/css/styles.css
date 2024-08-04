@@ -1,1 +1,7 @@
-@import url("./reset.css");
+@import "./reset.css";
+@import "./index.css";
+@import "./header.css";
+@import "./section.css";
+@import "../../node_modules/simplelightbox/dist/simple-lightbox.min.css";
+@import "./gallery.css";
+@import "./form.css";
